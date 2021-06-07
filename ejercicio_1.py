@@ -1,7 +1,3 @@
-print("Ejercicio N°1")
-print("==========Calcular Promedio==========")
-
-
 cantidad=int(input("INGRESE EL NUMERO DE NOTAS: "))
 
 contador=1
@@ -16,11 +12,6 @@ while contador <= cantidad:
     contador+=1
 
 print(int(sumatoria / cantidad))
-
-
-
-
-print("-----------------Gracias por utilizar el programa-----------------")
 
 
 
